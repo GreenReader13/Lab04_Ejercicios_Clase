@@ -1,0 +1,25 @@
+Movimientos
+
+--Modelo
+	Arriba		PAGE_UP
+	Abajo		PAGE_DOWN
+	Izquierda	A
+	Derecha		D
+	Atras		W
+	Adelante	S
+	Rotar	 X	DOWN
+	Rotar	-X	UP
+	Rotar	 Y	RIGHT
+	Rotar	-Y	LEFT
+	Rotar	 Z	E
+	Rotar	-Z	Q
+
+--Brazo
+	Hombro		J
+	Codo		K
+	Muñeca		L
+	Pulgar		Y
+	Indice		U
+	Medio		I
+	Anular		O
+	Meñique		p
