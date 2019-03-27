@@ -1,7 +1,7 @@
 /*---------------------------------------------------------*/
-/* ----------------   Pr·ctica 8 --------------------------*/
+/* ----------------   Pr√°ctica 8 --------------------------*/
 /*-----------------    2019-2   ---------------------------*/
-/*------------- Alumno:                     ---------------*/
+/*------------- Alumno: Fuentes Bello David ---------------*/
 #define STB_IMAGE_IMPLEMENTATION
 #include "esfera.h"
 #include "camera.h"
@@ -291,7 +291,7 @@ int main()
 		glClearColor(0.0f, 0.0f, 0.0f, 1.0f);
 		glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
-		//Mi funciÛn de dibujo
+		//Mi funci√≥n de dibujo
 		display();
 
 		// glfw: swap buffers and poll IO events (keys pressed/released, mouse moved etc.)
